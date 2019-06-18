@@ -1,0 +1,23 @@
+{
+  "name": "trydocker",
+  "version": "1.0.0",
+  "description": "### Create a Dockerfile for a node.js app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-mark-s/trydocker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h-mark-s/trydocker/issues"
+  },
+  "homepage": "https://github.com/h-mark-s/trydocker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
